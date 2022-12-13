@@ -1,0 +1,5 @@
+Materi PTI(Pengantar Teknologi Informasi):
+1. pengenalan System komputer
+2. Komponen - Komponen komputer
+3. System bilangan 
+4. Konversi bilangan 
