@@ -3,3 +3,5 @@ Materi PTI(Pengantar Teknologi Informasi):
 2. Komponen - Komponen komputer
 3. System bilangan 
 4. Konversi bilangan 
+5. Aplikasi Wod I
+6. Aplikasi Word II
