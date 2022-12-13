@@ -5,3 +5,4 @@ Materi PTI(Pengantar Teknologi Informasi):
 4. Konversi bilangan 
 5. Aplikasi Wod I
 6. Aplikasi Word II
+7. Aplikasi word III
